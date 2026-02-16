@@ -1,0 +1,21 @@
+{
+    "name": "gestion-stock",
+    "version": "1.0.0",
+    "description": "Application de gestion de stock avec React Native et Laravel",
+    "scripts": {
+        "backend": "cd backend && php artisan serve",
+        "mobile:android": "cd mobile && npx react-native run-android",
+        "mobile:ios": "cd mobile && npx react-native run-ios",
+        "mobile:install": "cd mobile && npm install",
+        "backend:migrate": "cd backend && php artisan migrate",
+        "backend:fresh": "cd backend && php artisan migrate:fresh --seed"
+    },
+    "keywords": [
+        "react-native",
+        "laravel",
+        "stock",
+        "inventory"
+    ],
+    "author": "",
+    "license": "ISC"
+}
