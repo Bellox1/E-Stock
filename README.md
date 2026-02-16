@@ -5,9 +5,24 @@ Application de gestion de stock avec React Native (mobile) et Laravel (backend A
 ## 🎥 Démonstration
 
 <div align="center">
-  <video src="./Demonstration/site.webm" width="80%" controls autoplay muted loop>
-    Votre navigateur ne supporte pas la lecture de vidéos.
-  </video>
+  
+[![Voir la vidéo de démonstration](https://img.shields.io/badge/▶️_Voir_la_vidéo_complète-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](./Demonstration/site.webm)
+
+### 📸 Captures d'écran
+
+<table>
+  <tr>
+    <td><img src="./Demonstration/images/dashboard1.jpeg" alt="Dashboard" width="250"/></td>
+    <td><img src="./Demonstration/images/produits.png" alt="Produits" width="250"/></td>
+    <td><img src="./Demonstration/images/ventes.png" alt="Ventes" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="./Demonstration/images/clients.png" alt="Clients" width="250"/></td>
+    <td><img src="./Demonstration/images/boutiques.png" alt="Boutiques" width="250"/></td>
+    <td><img src="./Demonstration/images/facture.png" alt="Facture" width="250"/></td>
+  </tr>
+</table>
+
 </div>
 
 ## 📁 Structure du Projet
