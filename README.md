@@ -5,7 +5,7 @@ Application de gestion de stock avec React Native (mobile) et Laravel (backend A
 ## 🎥 Démonstration
 
 <div align="center">
-  <video src="./backend/storage/app/public/site.webm" width="80%" controls autoplay muted loop>
+  <video src="./Demonstration/site.webm" width="80%" controls autoplay muted loop>
     Votre navigateur ne supporte pas la lecture de vidéos.
   </video>
 </div>
