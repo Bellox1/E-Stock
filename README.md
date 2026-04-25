@@ -6,8 +6,6 @@ Application de gestion de stock avec React Native (mobile) et Laravel (backend A
 
 <div align="center">
   
-[![Voir la vidéo de démonstration](https://img.shields.io/badge/▶️_Voir_la_vidéo_complète-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](./Demonstration/site.webm)
-
 ### 📸 Captures d'écran
 
 <table>
