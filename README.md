@@ -151,6 +151,10 @@ L'API utilise Laravel Sanctum pour l'authentification. Les endpoints principaux 
 
 Ce projet est en cours de développement.
 
+## 📄 Licence
+
+Ce projet est sous licence MIT. Développé par **BELLOX**.
+
 Rappel des comptes de test :
 Marchand par défaut : marchand@bio.com / password123 (Boutique bio déjà remplie).
 Admin par défaut : admin@boss.com / password123 (Gestion plateforme).
